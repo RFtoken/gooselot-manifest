@@ -1,0 +1,1 @@
+# gooselot-manifest
